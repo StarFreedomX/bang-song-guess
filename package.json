@@ -1,5 +1,5 @@
 {
-  "name": "@starfx/koishi-plugin-bang-song-guess",
+  "name": "@starfreedomx/koishi-plugin-bang-song-guess",
   "description": "歌曲笑传之猜猜邦",
   "version": "0.0.1",
   "main": "lib/index.js",
